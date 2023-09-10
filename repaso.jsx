@@ -26,3 +26,20 @@ var categoria = "computadora",
 //var 99dias;
 //var dias99;
 
+let producto = "tablet";
+
+// resignar valor
+
+producto = "monitor";
+
+producto = 20;
+producto = true;
+producto = null;
+
+console.log(producto);
+
+let precio;
+
+precio = 2000;
+
+console.log(precio)
